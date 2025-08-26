@@ -5,7 +5,6 @@ Ben Western
 
 My github username is:
 
-NebbyBoi
+Ben-Western
 
-BL-MSCH-C220
 I have installed all of the software
